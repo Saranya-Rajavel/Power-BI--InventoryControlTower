@@ -26,8 +26,5 @@ This project presents an executive-level Power BI dashboard designed to monitor 
 - Dashboard screenshots
 - Documentation
 
-## Screenshots
-(Add images here)
-
 ## Author
 Saranya R
